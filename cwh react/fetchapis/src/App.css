@@ -1,0 +1,18 @@
+#container{
+  width: 100vw;
+  height: 100vh;
+  background-color: rgb(20, 20, 23);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+}
+
+.card{
+  border: 2px solid rgb(0, 66, 207);
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  text-align: center;
+}
